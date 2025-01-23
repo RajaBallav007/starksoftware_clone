@@ -472,7 +472,7 @@ a:hover {
 }
 @media (max-width: 576px) {
   .navbar .navbar-brand img {
-    max-height: 3rem;
+    max-height: 4rem;
     width: auto;
   }
 }
